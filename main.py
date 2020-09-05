@@ -94,4 +94,4 @@ else:
 
 GPA =float((grpo1 * cr01 + grpo2 * cr02 + grpo3 * cr03)/(cr01 + cr03 + cr02))
 
-print(f"Your GPA is:{GPA}")
+print(f"Your GPA is: {GPA}")
