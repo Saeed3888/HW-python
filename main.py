@@ -4,7 +4,7 @@ cr01 = input ("Enter your course 1 credit: ")
 cr01 = float(cr01)
 if grade01 == "A":
   grpo1 = 4.0 
-  print(f"Grade point for course 1 is: 4.0")
+  print(f"Grade point for course 1 is : 4.0")
 elif grade01 == "A-":
   grpo1 = 3.67
   print(f"Grade point for course 1 is : 3.67")
