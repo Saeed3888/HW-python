@@ -44,7 +44,7 @@ elif  grade02 == "B+":
   print(f"Grade point for course 2 is: 3.33")
 elif grade02 == "B":
   grpo2 = 3
-  print(f"Grade point for course 2 is: 3:0")
+  print(f"Grade point for course 2 is: 3.0")
 elif grade02 == "B-":
   grpo2 = 2.67
   print(f"Grade point for course 2 is: 2.67")
