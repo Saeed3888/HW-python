@@ -27,7 +27,7 @@ elif grade01 == "D":
   grpo1 = 1.0 
   print(f"Grade point for course 1 is : 1.0")
 else:
-  grade01 = 0.0
+  grpo1 = 0.0
   print(f"Grade point for course 1 is : 0.0")
 
 grade02 = input ("Enter your course 2 letter grade: ")
@@ -58,7 +58,7 @@ elif grade02 == "D":
   grpo2 = 1.0 
   print(f"Grade point for course 2 is : 1.0")
 else:
-  grade02 = 0.0
+  grpo2 = 0.0
   print(f"Grade point for course 2 is : 0.0")
 
 grade03 = input ("Enter your course 3 letter grade: ")
@@ -89,7 +89,7 @@ elif grade03 == "D":
   grpo3 = 1.0 
   print(f"Grade point for course 3 is : 1.0")
 else:
-  grade03 = 0.0
+  grpo3 = 0.0
   print(f"Grade point for course 3 is : 0.0")
 
 GPA =float((grpo1 * cr01 + grpo2 * cr02 + grpo3 * cr03)/(cr01 + cr03 + cr02))
